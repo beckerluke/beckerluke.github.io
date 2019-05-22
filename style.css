@@ -4,6 +4,7 @@ h1 {
 }
 .header {
   font-family: 'Trebuchet MS', Helvetica
+  margin:5px; 
 }
 .personal info {
   display: inline; 
