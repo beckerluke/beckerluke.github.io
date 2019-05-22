@@ -5,6 +5,11 @@ h1 {
 .header {
   font-family: 'Trebuchet MS', Helvetica
 }
+.personal info {
+  text-align: center; 
+  font-size: 10px; 
+  padding: 10px 0; 
+}
 body {
 }
 
