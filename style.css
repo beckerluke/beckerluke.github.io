@@ -6,6 +6,7 @@ h1 {
   font-family: 'Trebuchet MS', Helvetica
 }
 .personal info {
+  display: flex; 
   text-align: center; 
   font-size: 10px; 
   padding: 10px 0; 
