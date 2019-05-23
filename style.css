@@ -10,6 +10,12 @@ h2 {
   text-align: center; 
 }
 
+h6 {
+  float: left; 
+  margin: 5px; 
+  padding: 2px; 
+  font-family: 'Papyrus'; 
+
 .header {
   border-style: solid; 
   text-align: center; 
