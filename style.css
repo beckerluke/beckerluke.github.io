@@ -22,11 +22,11 @@ h2 {
 }
 
 .personal info {
-  display: inline; 
+  float: left; 
   text-align: center; 
   font-size: 10px; 
-  padding: 2px 0; 
-  margin: 2px; 
+  padding: 5px; 
+  margin: 0; 
 }
 body {
 }
