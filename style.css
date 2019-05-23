@@ -5,6 +5,8 @@ h1 {
 .header {
   font-family: 'Trebuchet MS', Helvetica
   margin:5px; 
+.picture {
+  align: center; 
 }
 .personal info {
   display: inline; 
