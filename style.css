@@ -10,11 +10,18 @@ h2 {
   text-align: center; 
 }
 
+h3 {
+}
+
+h4 {
+}
+
 h6 {
   float: left; 
   margin: 5px; 
   padding: 2px; 
-  font-family: 'Papyrus'; 
+  font-family: 'Verdana'; 
+}
 
 .header {
   border-style: solid; 
@@ -35,6 +42,7 @@ h6 {
   padding: 5px; 
   margin: 0; 
 }
+
 body {
 }
 
