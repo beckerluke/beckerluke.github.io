@@ -2,17 +2,19 @@ h1 {
   font-size: 60px;
   text-align: center; 
 }
-div.header {
+
+.header {
   border-style: solid; 
+  text-align: center; 
   font-family: 'Trebuchet MS', Helvetica
   margin:5px; 
 }
 
-div.picture {
+.picture {
   text-align: center; 
 }
 
-div.personal info {
+.personal info {
   display: inline; 
   text-align: center; 
   font-size: 10px; 
