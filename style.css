@@ -3,8 +3,10 @@ h1 {
   text-align: center; 
 }
 .header {
+  border-style: solid; 
   font-family: 'Trebuchet MS', Helvetica
   margin:5px; 
+}
 .picture {
   text-align: center; 
 }
