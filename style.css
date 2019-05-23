@@ -7,6 +7,7 @@ h2 {
   font-family: 'Avenir Black Oblique'; 
   border-style: solid; 
   background-color: gold; 
+  text-align: center; 
 }
 
 .header {
